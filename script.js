@@ -145,6 +145,7 @@ function initReveal() {
     ".about-copy > *",
     ".meme-card",
     ".ca-box",
+    ".x-card",
     ".token-board article",
     ".net-actions",
     ".steps li",
