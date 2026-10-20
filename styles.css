@@ -954,7 +954,7 @@ button.btn {
 }
 
 .meme-card--left img,
-.meme-card--right img {
+.meme-card--meme img {
   object-fit: cover;
 }
 
@@ -962,12 +962,6 @@ button.btn {
   object-position: left center;
   transform-origin: 30% 60%;
   animation: slow-zoom 12s ease-in-out infinite alternate;
-}
-
-.meme-card--right img {
-  object-position: right center;
-  transform-origin: 70% 60%;
-  animation: slow-zoom 12s ease-in-out 3s infinite alternate;
 }
 
 .meme-card:hover img { transform: scale(1.04); }
