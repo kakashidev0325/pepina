@@ -1,7 +1,7 @@
 const CONFIG = {
   tokenAddress: "0x90a36713577d661e8f3ae0085dfed7f4460a2e71",
   uniswapUrl: "",
-  twitter: "https://x.com/pepinarobin",
+  twitter: "https://x.com/pepinaonrobin",
 };
 
 const CHAIN = {
